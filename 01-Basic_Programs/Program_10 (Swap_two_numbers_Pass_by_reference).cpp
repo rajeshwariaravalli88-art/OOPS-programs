@@ -1,4 +1,4 @@
-//Write a c++ code to swap two numbers
+//Write a c++ code to swap two numbers(using pass by reference)
 
 #include <iostream>
 using namespace std;
