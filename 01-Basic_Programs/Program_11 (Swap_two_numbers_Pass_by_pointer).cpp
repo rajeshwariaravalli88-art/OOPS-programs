@@ -1,3 +1,4 @@
+//Write a c++ code to swap two numbers(using pass by pointer)
 #include <iostream>
 using namespace std;
 
