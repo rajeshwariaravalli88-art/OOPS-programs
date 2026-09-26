@@ -1,3 +1,4 @@
+//Write a c++ code to find whether palindrome or not
 #include <iostream>
 #include <string>
 using namespace std;
