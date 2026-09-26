@@ -1,11 +1,13 @@
 # OOPS-programs
 
-# Object-Oriented Programming in C++
-
 ## 🎯 Objective
 
 To strengthen my understanding of object-oriented programming through
 hands-on C++ coding and implementation.
+
+1. **Basic C++ Programs** – Fundamentals of C++.
+2. **Classes and Objects** – Static members, scope resolution, constructors, and destructors.
+3. **Inheritance** – Different types and implementation of inheritance.
 
 ## 🎓 Student Details
 
