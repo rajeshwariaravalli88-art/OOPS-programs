@@ -1,3 +1,4 @@
+//Write a c++ code to find the area of the rectangle
 #include<iostream>
 using namespace std;
 int main()
